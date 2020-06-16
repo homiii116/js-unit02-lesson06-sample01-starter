@@ -1,6 +1,6 @@
 import MailValidator from './lib/MailValidator';
 import PasswordValidator from './lib/PasswordValidator';
-import fetch from 'whatwg-fetch'
+import 'whatwg-fetch'
 
 const endpoint = "http://localhost:3000"
 
